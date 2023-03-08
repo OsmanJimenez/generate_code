@@ -1,0 +1,7 @@
+{
+  "name": "Generador de Codigo para Cruds",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
